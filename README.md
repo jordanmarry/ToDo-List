@@ -1,4 +1,4 @@
-# ToDo-List
+# ToDo-List-Bot
 - Discord bot that keeps a ToDo List for you.
 
 ## Environment Variables
